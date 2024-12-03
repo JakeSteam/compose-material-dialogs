@@ -10,7 +10,7 @@
 
 ## Core
 
-#### [Core Documentation](https://vanpra.github.io/compose-material-dialogs/Core)
+#### [Core Documentation](https://PranavMaganti.github.io/compose-material-dialogs/Core)
 
 ![](https://raw.githubusercontent.com/vanpra/compose-material-dialogs/main/imgs/full_core.png)
 
@@ -26,7 +26,7 @@ dependencies {
 
 ## Date and Time Picker
 
-#### [Date and Time Picker Documentation](https://vanpra.github.io/compose-material-dialogs/DateTimePicker)
+#### [Date and Time Picker Documentation](https://PranavMaganti.github.io/compose-material-dialogs/DateTimePicker)
 
 ![](https://raw.githubusercontent.com/vanpra/compose-material-dialogs/main/imgs/date_and_time.png)
 
@@ -42,7 +42,7 @@ dependencies {
 
 ## Color Picker
 
-#### [Color Picker Documentation](https://vanpra.github.io/compose-material-dialogs/ColorPicker)
+#### [Color Picker Documentation](https://PranavMaganti.github.io/compose-material-dialogs/ColorPicker)
 
 ![](https://raw.githubusercontent.com/vanpra/compose-material-dialogs/main/imgs/color_picker.png)
 
